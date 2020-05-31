@@ -1,0 +1,4 @@
+microMinesweeper.
+how to launch on linux arm64:
+chmod +x microMine
+./microMine
